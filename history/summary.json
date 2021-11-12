@@ -4,17 +4,19 @@
     "url": "https://vukkybox.com",
     "icon": "https://favicons.githubusercontent.com/vukkybox.com",
     "slug": "vukkybox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 555,
+    "timeDay": 581,
     "timeWeek": 555,
     "timeMonth": 555,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-12": 0
+    }
   }
 ]
