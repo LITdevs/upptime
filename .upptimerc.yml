@@ -13,8 +13,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://i.imgur.com/DL9hQly.png
   name: LIT Devs
-  introTitle: "**LIT Devs** is the very cool development group that develops development."
-  introMessage: We will now show you how broken our developing is.
+  introTitle: "Welcome to the **LIT Devs** status page!"
+  introMessage: This is where you can view updates about the uptime of our products.
   navbar:
     - title: Status
       href: /
