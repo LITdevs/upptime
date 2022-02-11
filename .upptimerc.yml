@@ -6,6 +6,9 @@ sites:
   - name: Vukkybox
     url: https://vukkybox.com
     icon: https://vukkybox.com/resources/icons/192.png
+  - name: litdevs.org
+    url: https://litdevs.org
+    icon: https://i.imgur.com/DL9hQly.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
