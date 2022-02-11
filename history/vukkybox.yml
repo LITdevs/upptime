@@ -1,7 +1,7 @@
 url: https://vukkybox.com
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2022-02-10T23:01:22.859Z
+status: down
+code: 502
+responseTime: 333
+lastUpdated: 2022-02-11T20:16:30.121Z
 startTime: Thu Nov 11 2021 08:04:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
