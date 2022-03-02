@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/i7NUtSC.png",
     "slug": "vukkybox",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 475,
     "timeDay": 593,
     "timeWeek": 447,
@@ -30,9 +30,9 @@
     "url": "https://litdevs.org",
     "icon": "https://i.imgur.com/DL9hQly.png",
     "slug": "litdevs-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -42,6 +42,7 @@
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-28": 16
     }
   }
