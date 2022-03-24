@@ -9,6 +9,8 @@ sites:
   - name: litdevs.org
     url: https://litdevs.org
     icon: https://i.imgur.com/DL9hQly.png
+  - name: WikiLIT
+    url: https://wiki.litdevs.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
