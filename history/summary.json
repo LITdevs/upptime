@@ -31,19 +31,19 @@
     "url": "https://litdevs.org",
     "icon": "https://i.imgur.com/DL9hQly.png",
     "slug": "litdevs-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 435,
-    "timeWeek": 282,
-    "timeMonth": 272,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 282,
+    "timeDay": 359,
+    "timeWeek": 274,
+    "timeMonth": 270,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 13
     }
   },
   {
