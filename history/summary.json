@@ -33,9 +33,9 @@
     "url": "https://litdevs.org",
     "icon": "https://i.imgur.com/DL9hQly.png",
     "slug": "litdevs-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,9 @@
     "timeWeek": 204,
     "timeMonth": 300,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "WikiLIT",
@@ -52,11 +54,11 @@
     "icon": "https://favicons.githubusercontent.com/wiki.litdevs.org",
     "slug": "wiki-lit",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "97.80%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.28%",
     "time": 681,
     "timeDay": 641,
     "timeWeek": 958,
