@@ -11,13 +11,16 @@ sites:
     icon: https://i.imgur.com/DL9hQly.png
   - name: WikiLIT
     url: https://wiki.litdevs.org
+  - name: Logo Changer
+    url: https://logo.litdevs.org
+    icon: https://i.imgur.com/0AXpPJF.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.litdevs.org
   # baseUrl: /your-repo-name
-  logoUrl: https://i.imgur.com/DL9hQly.png
+  logoUrl: https://logo.litdevs.org/api/vukky/bg
   name: LIT Devs
   introTitle: "Welcome to the **LIT Devs** status page!"
   introMessage: This is where you can view updates about the uptime of our products.
