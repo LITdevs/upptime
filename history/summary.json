@@ -31,9 +31,9 @@
     "url": "https://litdevs.org",
     "icon": "https://i.imgur.com/DL9hQly.png",
     "slug": "litdevs-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -42,7 +42,9 @@
     "timeWeek": 239,
     "timeMonth": 294,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "WikiLIT",
